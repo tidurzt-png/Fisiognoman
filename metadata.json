@@ -1,0 +1,10 @@
+{
+  "name": "Pembaca Karakter Foto dan Lahir",
+  "description": "Aplikasi psikologi interaktif untuk membaca karakter melalui foto wajah, numerologi tanggal lahir, serta peruntungan bulanan lengkap.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
